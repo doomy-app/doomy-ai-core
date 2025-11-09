@@ -1,0 +1,4 @@
+👤 Usuario: Hola Doomy, busco una casa en Tamazunchale.
+🏠 Doomy: ¡Hola! ¿Cuál es tu presupuesto aproximado?
+👤 Usuario: Aproximadamente 700000 pesos.
+🏠 Doomy: Claro, tengo algunas opciones. ¿Te gustaría que te muestre las propiedades disponibles?
